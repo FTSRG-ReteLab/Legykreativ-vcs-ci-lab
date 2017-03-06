@@ -21,7 +21,7 @@ public class TrainSystemTest {
 		TrainSystem system = new TrainSystem();
 		controller = system.getController();
 		sensor = system.getSensor();
-		user = system.getUser();
+		user = system.getUser();asd;
 
 		sensor.overrideSpeedLimit(50);
 	}
@@ -56,6 +56,7 @@ public class TrainSystemTest {
 		TrainTachographe tac = new TrainTachographe();
 		Assert.assertEquals(true, tac.table.isEmpty());
 	}
+	
 
 	
 }
