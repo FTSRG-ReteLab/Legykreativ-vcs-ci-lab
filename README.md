@@ -7,3 +7,7 @@ Sample application for the version control systems and continuous integration la
 ## Tagok:
 - Én
 - Valaki más
+
+### Valami még kellene:
+  *  Ez mondjuk
+  -  Vagy ez?
