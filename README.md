@@ -10,4 +10,4 @@ Sample application for the version control systems and continuous integration la
 
 ### Valami még kellene:
   *  Ez mondjuk
-  -  Vagy ez?
+  - ~~ Vagy ez?~~
